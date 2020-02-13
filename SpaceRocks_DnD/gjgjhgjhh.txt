@@ -1,0 +1,2 @@
+c:
+cd .\Users\mashkinos6843\Documents\GameMakerStudio2\
